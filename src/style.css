@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: #FFC0CB; 
+}
+
+.button {
+    -fx-background-radius: 50px; 
+    -fx-min-width: 50px;
+    -fx-min-height: 50px; 
+    -fx-max-width: 50px; 
+    -fx-max-height: 50px; 
+    -fx-font-size: 16px;
+}
+
+.result-container {
+    -fx-background-color: #f3a0c9; 
+    -fx-font-weight: bold; 
+    -fx-padding: 5px;
+    -fx-border-width: 1px;
+    -fx-background-radius: 10px; 
+    -fx-font-size: 14px; 
+}
