@@ -14,7 +14,7 @@ A calculadora básica desenvolvida neste projeto possui as seguintes funcionalid
 
 ## Tecnologias Utilizadas
 *Java*: A linguagem de programação utilizada para desenvolver a lógica da calculadora.  
-*JavaFX*: O framework utilizado para criar a interface gráfica da aplicação.
+*JavaFX*: O framework utilizado para criar a interface gráfica da aplicação.  
 *CSS*: Utilizado para estilizar a interface gráfica da calculadora.
 
 ## Contribuições
